@@ -20,7 +20,7 @@ Microsoft Excel, Power Pivot, Pivot Tables, Charts(Bar,Lines,Column), Slicers an
 - Top 10 Cities by Number of Orders: Find out which cities are placing the highest number of orders.
 - Revenue Comparison Between Occasions: Compare revenue generated across different occasions.
 - Product Popularity by Occasion: Identify which products are most popular during
-- 
+  
 ## Dashboard Interaction
 - <a href="https://github.com/divyakm09/FNP-Excel-Dashboard/blob/main/Dashobard%20img.JPG"> View Dashboard <a>
 
