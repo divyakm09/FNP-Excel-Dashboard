@@ -22,7 +22,6 @@ Microsoft Excel, Power Pivot, Pivot Tables, Charts(Bar,Lines,Column), Slicers an
 - Product Popularity by Occasion: Identify which products are most popular during
 - 
 ## Dashboard Interaction
-- <a href="https://github.com/divyakm09/FNP-Excel-Dashboard/blob/main/Dashobard%20img.JPG"> Dashboard <a>
 
 ## Process
 1) Import & Prepare Data : Load all related tables (e.g., Orders, Products, Categories, Customers) into Excel or directly into Power Pivot.
@@ -31,7 +30,7 @@ Microsoft Excel, Power Pivot, Pivot Tables, Charts(Bar,Lines,Column), Slicers an
 4) Create Calculated Columns and Measures (DAX) in Power Pivot and Build Pivot Tables and Pivot Charts.
 5) Add Slicers and timelines for Interactivity and finally design the Dashboard Layout.
 ## View Dashboard
-
+- <a href="https://github.com/divyakm09/FNP-Excel-Dashboard/blob/main/Dashobard%20img.JPG"> Dashboard <a>
 
 ## Insights
 - Total Orders : 1000
